@@ -4,6 +4,10 @@
 <h3 align="center">AI Engineer | Full-Stack Developer | Backend Architect</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=800&size=22&lines=AI+Systems+Engineer;LLM+Integration+Specialist;FastAPI+Backend+Architect;Full-Stack+AI+Builder;Hackathon+Driven+Problem+Solver;Always+Learning+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
   <a href="https://github.com/lonsane">
     <img src="https://komarev.com/ghpvc/?username=lonsane&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
@@ -48,45 +52,6 @@ I engineer **production-ready AI systems** combining:
 - Hybrid Speculative AI Architecture
 - Prompt Engineering Systems
 - ML-based Network Intrusion Detection
-
----
-
-## 🏆 Featured Engineering Projects
-
-### 🧠 AI Persona Chatbot (Full AI Stack Architecture)
-**FastAPI + Angular + LLM + MySQL**
-
-- Stores user conversations per session
-- Generates structured personas from historical data
-- Personalizes future AI responses
-- CSV-based data processing + DB hybrid storage
-- Modular backend design (api_client, data_processor, persona_runner)
-
-Impact: Built a stateful AI system instead of a stateless chatbot.
-
----
-
-### 🛡 Hybrid AI Network Intrusion Detection System (NIDS V2)
-**XGBoost + Gemini 1.5 Flash**
-
-- Detects zero-day attacks
-- Handles adversarial traffic
-- Combines ML speed + LLM reasoning
-- Intelligent classification pipeline
-
-Impact: Designed speculative AI cybersecurity architecture.
-
----
-
-### 📄 QAChatbot (Document Intelligence Engine)
-**Python + Streamlit + LLaMA**
-
-- Upload any document
-- Contextual question answering
-- Intelligent semantic extraction
-- Hosted & production-ready
-
----
 
 ## 📊 GitHub Analytics
 
